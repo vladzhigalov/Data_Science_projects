@@ -1,4 +1,4 @@
-## 1. Телеком | отток клиентов
+## Телеком | отток клиентов
 
 - Сфера деятельности: Телеком
 - Навыки и инструменты: Python, Pandas, Scikit-learn, Matplotlib, Seaborn, ML, classification, lgbm, catboost
